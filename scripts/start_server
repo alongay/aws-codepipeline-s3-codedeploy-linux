@@ -1,3 +1,4 @@
+#Start apache server
 #!/bin/bash
 service httpd start
 
